@@ -1,6 +1,6 @@
 # ultraviolet-scripts
 Core Ultraviolet scripts
-https://x8kqqv.csb.app/
+https://ryanw53.wixsite.com/games
 
 # Configuration
 Configure Ultraviolet for both client-hooking & service worker in `uv.config.js`
